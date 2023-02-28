@@ -1,2 +1,7 @@
 Sopa de papas el retorno del Rey
+<<<<<<< HEAD
 Este es el archivo sopa de papas, nose que quiere decir pero bueno :D
+=======
+
+Sopa de papas y las Dos Torres
+>>>>>>> d006c7870a84d0ec947beb0d5e32dad52a219406
